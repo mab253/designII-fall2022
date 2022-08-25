@@ -10,4 +10,5 @@ Every week you are responsible for:
   - posting @ least 2 updates
   - asking @ least 1 question
 
-These are truly minimums - my hope is that the Discord will be a space where you can ask any programming question you have, post something helpful that you found on Stack Overflow or another fun forum, get inspired by other students' work and questions, etc.
+These are truly minimums - my hope is that the Discord will be a space where you can ask any programming question you have, post something helpful that you found on Stack Overflow or another fun forum, get inspired by other students' work and questions, etc. You are expected to be active every week, throughout the week - I highly encourage you to document your process as you go here, rather than uploading your updates the night before our Monday classes. The Discord is not for the professor to check up on you; it's for all of us to collaboratively build these projects and help each other out!
+
