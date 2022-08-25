@@ -284,3 +284,7 @@ You can find CCNY’s Academic Integrity Policy in full [here](https://www.ccny.
 This semester, I will be an active member of our class Discord. You can always ask me a question there!
 
 For private questions, please e-mail me - I am available! I try to respond within 24 hours. You are also invited to schedule some virtual office hour time to talk, [here](https://www.cal.com/mab253). If you need a time that's not on this schedule, please e-mail me.
+
+## announcement from CCNY:
+
+Students who find themselves experiencing difficulties obtaining food every day or who lack a stable and safe place to live are urged to come to Benny’s pantry for assistance (https://www.ccny.cuny.edu/bennysfoodpantry). Benny’s pantry is located on the ground floor of the North Academic Center (NAC) and is open to anyone within the CUNY community (students, staff, faculty) in need of support. The pantry is open from 10am to 6pm and is self-serve. Additional emergency support for financial, health and housing needs are also available through Benny’s. Please contact Dee Dee Mozeleski at dmozeleski@ccny.CUNY.edu or Charles Ramirez @cramirez@ccny.CUNY.edu for additional details.
