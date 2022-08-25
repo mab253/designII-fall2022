@@ -12,3 +12,12 @@ Every week you are responsible for:
 
 These are truly minimums - my hope is that the Discord will be a space where you can ask any programming question you have, post something helpful that you found on Stack Overflow or another fun forum, get inspired by other students' work and questions, etc. You are expected to be active every week, throughout the week - I highly encourage you to document your process as you go here, rather than uploading your updates the night before our Monday classes. The Discord is not for the professor to check up on you; it's for all of us to collaboratively build these projects and help each other out!
 
+I will be an active member of the Discord as well, answering questions where it's helpful and connecting you to someone else in the class where it's possibe. This is also where I will get a sense of what kind of workshops would be most helpful to everyone: for example, if everyone is having a similar Python/ML issue, my next workshop could address this. There may also be chances to vote on upcoming topics.
+
+You will all have the ability to create channels - please do so! For fun or serious purposes.
+
+Remember that a condition of joining the Discord, and being a member of this class, will be agreeing to the Community Code. 
+
+Other ideas:
+  - a job post channel, opportunities, questions about life and "next year"
+  - virtual guest speakers, available for "AMA" type  
