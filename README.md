@@ -28,7 +28,7 @@
 
 This course will meet *in-person*. Our work will focus significantly on crafting the environment and community for our weekly meetings - we will be creating a [studio](https://www.howiteachdesign.com/03_0_design_studio.php), a [hackerspace](https://wiki.hackerspaces.org/Hackerspaces), makerspace, lab, workshop, etc. We will work together to determine exactly what means for us as a group.
 
-🎨 Each 2.5 hour classtime will likely involve:
+🎨 Each 2.5 hour class session will likely involve:
 
 - **Check-In** 20 min.
   - also called "sync", we will give quick life and/or project updates
