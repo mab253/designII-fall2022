@@ -206,7 +206,7 @@ WORKSHOP PRESENTATION: MAB
 
 ---
 
-**Week 13: Dec. 5** \
+**Week 13: Dec. 5** 
 
 WORKSHOP PRESENTATION: MAB, On Pitching and Decks
 
@@ -215,7 +215,7 @@ WORKSHOP PRESENTATION: MAB, On Pitching and Decks
 
 ---
 
-**Week 14: Dec. 12** \
+**Week 14: Dec. 12** 
 
 *DEMO & CRIT DAY!*
 ⚡️ Lightning Talks 
@@ -252,7 +252,7 @@ We will use other software development kits (SDKs), APIs, tools, places to meet 
 
 The studio-style environment of this class means that attendance is very important, both for the growth of your own projects and for the learning of your fellow students. Design critiques and collaborative workshops simply will not happen if we don't have a consistently present, engaged crew of classmates. Attendance in-class, as well as engagement (active listening, asking questions, taking on roles like notetaker, generally following our community code), will count toward your final grade. 
 
-That said, things happen. Everyone in this course will be allowed 1 absence, no questions asked. Every absence after this 1 will result in a deducting in your partipication/attendance portion of your final grade. Lateness beoynd 20 minutes is considered an absence.
+That said, things happen. Everyone in this course will be allowed 1 absence, no questions asked. Every absence after this 1 will result in a deduction from your partipication/attendance portion of your final grade. Lateness beoynd 20 minutes is considered an absence.
 
 *🔧 What about Open Studio Time?*
 
