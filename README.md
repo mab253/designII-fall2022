@@ -273,7 +273,7 @@ Grading breakdown:
 
 ## academic honesty and integrity:
 
-Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). [see what I did there ...?] **In all seriousness:** *please be mindful and cite your references*, both when you are writing in sentences and writing in code: Stack Overflow is a great resource, but your code cannot be copied and pasted for your assignments. Your work for written assignments must include citations when you are referencing others' work. Do not plagiarize.
+Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). [see what I did there ...?] **In all seriousness:** *please be mindful and cite your references*, both when you are writing in sentences and writing in code: Stack Overflow is a great resource, but your code cannot be copied and pasted for your assignments. Your work for written assignments must include citations when you are referencing others' work. Any work that you submit during this class is presumed to be your own original work. Any omission of a citation will not be tolerated and can be considered academic dishonesty. **Do not plagiarize.**
 
 From [Academic Integrity at MIT](https://integrity.mit.edu/handbook/writing-code), on code: *Writing code is similar to academic writing in that when you use or adapt code developed by someone else as part of your project, you must cite your source. However, instead of quoting or paraphrasing a source, you include an inline comment in the code. These comments not only ensure you are giving proper credit, but help with code understanding and debugging.*
 
