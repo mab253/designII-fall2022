@@ -243,7 +243,7 @@ Every student will also develop a project bibliography, in collaboration with th
 - Discord: please get a free account, [here](https://www.discord.com)
 - Github: please get a free account, [here](https://www.github.com)
 - Glitch: please get a free account, [here](https://www.glitch.com)
-- Zoom: we will always start class here
+- Zoom: 😱 we may need this, listing just in case
 - Blackboard 
 
 We will use other software development kits (SDKs), APIs, tools, places to meet and collaborate online, etc. throughout the course. This will be noted in specific weeks. 
