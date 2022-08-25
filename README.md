@@ -139,7 +139,7 @@ NO CLASS Oct. 10, Indigenous Peoples' Day
 
 **Assignment Due: Prototype #1!**
 
-NO Open Studio Time
+NO Open Studio Time  
 DEMO/TESTING DAY in-class
 
 ---
