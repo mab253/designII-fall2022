@@ -53,7 +53,7 @@ This course will meet *in-person*. Our work will focus significantly on crafting
 You will be responsible for:
   - weekly: Discord log, due 5:00pm EST *before* every class session
   - 2 prototype plans (due Week 4 & Week 8)
-  - 2 prototypes (due Week and Final)
+  - 2 prototypes (due Week 6 and Final date)
   - 3 presentations (in-class)
   - final: documentation, reflection paper, bibliography, code, and "artifact" (your software project itself)
   
