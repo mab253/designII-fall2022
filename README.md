@@ -3,7 +3,7 @@
 **Instructor:** Madeline Blount \
 **Term:** Fall 2022 \
 **Time:** Mondays 6:30pm-9:00pm \
-**Space:** NAC 4/157
+**Space:** NAC 4/157  
 **Office Hours:** Tues. by appointment, [schedule here](https://www.cal.com/mab253) \
 **E-mail:** `mblount@ccny.cuny.edu` 
 
