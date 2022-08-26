@@ -11,7 +11,7 @@ Every week you are responsible for:
   - asking @ least 1 question
   - responding to @ least 1 post by someone else
 
-**DUE: 5:00pm EST, Monday *before* class**
+**DUE: 5:00pm EST, Monday *each* week**
 
 These are truly minimums - my hope is that the Discord will be a space where you can ask any programming question you have, post something helpful that you found on Stack Overflow or a tutorial you liked, get inspired by other students' work and questions, etc. You are expected to be active every week, throughout the week - **I highly encourage you to document your process as you go here**, rather than uploading your updates the night before our Monday classes. The Discord is not for the professor to check up on you; it's a running archive of our documentation (which will be much easier to write up if you have a record!), and a space for all of us to collaboratively build these projects and help each other out.
 
@@ -19,7 +19,7 @@ I will be an active member of the Discord as well, answering questions where it'
 
 You will all have the ability to create new channels - please do so! For fun or serious purposes.
 
-Remember that a condition of joining the Discord, and being a member of this class, will be agreeing to the Community Code. 
+Remember that a condition of joining the Discord, and therefore being a member of this class, will be agreeing to the Community Code. 
 
 Other ideas:
   - a job post channel, opportunities, questions about life and "next year"
