@@ -2,7 +2,7 @@
 
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
-Our asynchronous platform for building our studio community. 
+Our asynchronous platform for building our studio community - the online component.
 
 Everyone will have their own channel, for their own updates and documentation. You can name this after your project, or give it your own name.
 
