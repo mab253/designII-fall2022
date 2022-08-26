@@ -78,7 +78,7 @@ You will be responsible for:
 *Welcome Back! Studio Foundation* \
 going through syllabus (hello!), checking in on projects, sign-up for presentation schedule, and creating our community code
 
-**Assignment:** complete class survey; "hello world" post on Discord (invite will be e-mailed) \
+**Assignment:** complete class survey; "hello world" post on Discord (invite/link for both will be e-mailed) \
 **DUE: Friday, Sept. 9th 5:00pm EST**
 
 ---
