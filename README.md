@@ -91,7 +91,8 @@ WORKSHOP PRESENTATION: MAB
 🔧 Open Studio Time
 
 **Readings due today:** 
-  - *Hackerspaces* book PDF
+  - *Hackerspaces: The Beginning* [full book](https://web.archive.org/web/20130831005537/http://hackerspaces.org/static/The_Beginning.zip) 
+    - Read about @ least 3 spaces in this book, choose a few to be ready to discuss
   - What is Criticism
   - *Critical Making*
   - !! Con Video
