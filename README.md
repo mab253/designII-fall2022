@@ -18,7 +18,7 @@
 - how to give and receive constructive criticism
 - how to debug, problem solve, and "get unstuck" as programmers
 - how to present your work, to fellow engineers and others
-- how to create a community for creating, critiquing, and supporting each other's work  
+- how to create a community for building, critiquing, and supporting each other's work  
 
 <img src="https://github.com/mab253/designII-fall2022/blob/2f16054fbfb2fb212c6400e157d03eece78d4dc1/0.jpg" width="300"></img>  
 *image from [DALL-E](https://openai.com/dall-e-2/#demos),  
