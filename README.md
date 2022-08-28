@@ -92,7 +92,7 @@ WORKSHOP PRESENTATION: MAB
 
 **Readings due today:** 
   - *Hackerspaces: The Beginning* Pattis et. al, [full book](https://web.archive.org/web/20130831005537/http://hackerspaces.org/static/The_Beginning.zip) 
-    - Read about @ least 3 spaces in this book, choose a few to be ready to discuss
+    - Read about @ least 5 spaces in this book, be ready to discuss
   - "[How to Take Criticism](http://www.chappellellison.com/giving-and-taking-criticism/)", Chappell Ellison
   - *Critical Making*
   - !! Con Video
