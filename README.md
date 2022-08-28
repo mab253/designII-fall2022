@@ -46,7 +46,7 @@ This course will meet *in-person*. Our work will focus significantly on crafting
   
 👾 We will also build an asynchronous offline community (as exists in nearly every endeavor @ this point, Fall '22). We will have a class [Discord](https://discord.com/) server where we will have multiple channels for posting updates, posing questions, commenting on and helping with each other's work, sharing resources, etc.
 
-**This class also assumes considerable self-directed time outside of class for working on your final Senior Design projects.** Our weekly meetings will be most helpful to you if you have new work, new issues, and new ideas to share!
+**This course also assumes considerable self-directed time outside of class for working on your final Senior Design projects.** Our weekly meetings will be most helpful to you if you have new work, new issues, and new ideas to share!
 
 ## assignmnents
 
