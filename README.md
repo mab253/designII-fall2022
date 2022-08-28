@@ -95,7 +95,7 @@ WORKSHOP PRESENTATION: MAB
     - Read about @ least 5 spaces in this book, be ready to discuss
   - "[How to Take Criticism](http://www.chappellellison.com/giving-and-taking-criticism/)", Chappell Ellison
   - Phoebe Sengers interview from *Critical Making*, ed. Garnet Hertz [interview here](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Conversations-pp25to34-Hertz-SengersInterview.pdf), [full book here](http://www.conceptlab.com/criticalmaking/)
-  - !! Con Video
+  - "[The Musical Password Manifesto](https://youtube.com/watch?v=mx0ZhHrCSvY)," Amara Jaeger, video from [!!Con](https://bangbangcon.com/) '21 
 
 ---
 
