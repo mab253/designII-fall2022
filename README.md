@@ -94,7 +94,7 @@ WORKSHOP PRESENTATION: MAB
   - *Hackerspaces: The Beginning* Pattis et. al, [full book](https://web.archive.org/web/20130831005537/http://hackerspaces.org/static/The_Beginning.zip) 
     - Read about @ least 5 spaces in this book, be ready to discuss
   - "[How to Take Criticism](http://www.chappellellison.com/giving-and-taking-criticism/)", Chappell Ellison
-  - *Critical Making*
+  - Phoebe Sengers interview from *Critical Making*, ed. Garnet Hertz [interview here](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Conversations-pp25to34-Hertz-SengersInterview.pdf), [full book here](http://www.conceptlab.com/criticalmaking/)
   - !! Con Video
 
 ---
