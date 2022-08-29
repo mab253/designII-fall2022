@@ -233,7 +233,7 @@ WORKSHOP PRESENTATION: MAB, On Pitching and Decks
 ---
 
 ## key dates
-- Sept 27th, prototype 1 plan due
+- Sept 29th, prototype 1 plan due
 - Oct 17th, prototype 1 due, demo/testing in-class
 - Oct 31st, prototype 2 plan due
 - Dec 12th, demo/pitch day in-class
