@@ -196,9 +196,10 @@ WORKSHOP PRESENTATIONS:
 
 ---
 
-**Week 12: Nov. 28**
+**Week 12: Nov. 28** 
+**NOTE: this week may be made asynchronous or remote, TBD**
 
-WORKSHOP PRESENTATION: MAB 
+WORKSHOP PRESENTATION: MAB  
 
 🔧 Open Studio Time
 
