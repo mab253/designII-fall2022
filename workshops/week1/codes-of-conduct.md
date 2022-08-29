@@ -11,5 +11,6 @@ You can check out the following examples (or find any number of them for various
 - [School for Poetic Computation](https://github.com/SFPC/codeofconduct), based in NYC
 - [ml5.JS Code of Conduct](https://github.com/ml5js/Code-of-Conduct), an open source project
 - [TC39](https://tc39.es/code-of-conduct/), a Javascript maintenance community
+- [Rust](https://www.rust-lang.org/policies/code-of-conduct), a computer language's open source community
 
 What elements of these do you respond to? Are there phrases or suggestions that you want to add to our class Community Code? Do you want to tweak, alter, or re-write some of these? Do they make you think of entirely new ideas to add?
