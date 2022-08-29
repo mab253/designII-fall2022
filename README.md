@@ -241,7 +241,7 @@ WORKSHOP PRESENTATION: MAB, On Pitching and Decks
 
 ## materials and references
 
-All course material will be linked via Blackboard, Discord, and Github (here). There will be extra links and further references listed every week, beyond the required materials, that might be helpful to you. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any lecture material (slides, links, etc.) in a folder in this repo called `/lectures`. Information and instructions for any assigments will be in a folder called `/assignments`.
+All course material will be linked via Blackboard, Discord, and Github (here). There will be extra links and further references listed every week, beyond the required materials, that might be helpful to you. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any in-class workshop material (slides, links, etc.) in a folder in this repo called `/workshops`. Information and instructions for any assigments will be in a folder called `/assignments`.
 
 Every student will also develop a project bibliography, in collaboration with the instructor. You will be able to choose readings that are meaningful and helpful to you, both in building and giving contextual framework for your projects. More details on this assignment will be provided during the course.
 
