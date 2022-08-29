@@ -293,5 +293,5 @@ Students who find themselves experiencing difficulties obtaining food every day 
 
 ## acknowledgments:
 
-This syllabus benefits from my research of many others' work developing radical-sounding studio-style classes:  
+This syllabus benefits from my research of many others' work developing studio-style classes:  
 [Shannon Mattern](https://redesigningacademy.wordsinspace.net/spring2022/), [Eric Paulos](http://make.berkeley.edu/), [Mindy Seu](http://www.designforthe.net/), [Teaching Design project](https://teaching-design.net/), [Jon Kolko](https://www.howiteachdesign.com/03_4_design_studio_time_space.php)
