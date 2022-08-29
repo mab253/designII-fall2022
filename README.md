@@ -83,6 +83,10 @@ going through syllabus (hello!), checking in on projects, sign-up for presentati
 
 ---
 
+NO CLASS Sept. 5, Labor Day
+
+---
+
 **Week 2: Sept. 12** \
 *Hackerspaces, Makerspaces*
 
