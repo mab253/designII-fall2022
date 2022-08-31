@@ -3,8 +3,10 @@
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 Our asynchronous platform for building our studio community - the online component.
+<img width="1565" alt="Screen Shot 2022-08-29 at 1 45 16 PM" src="https://user-images.githubusercontent.com/17707843/187789682-fc627391-4e9e-41fd-b591-dccf4c80bed5.png">
 
 ## to start our Discord server:
+  - you can name yourself anything that you want, but please make sure that your profile "About Me" includes the name that you use in class, so that we know who each other are (you can [customize your profile settings](https://support.discord.com/hc/en-us/articles/360035491151-Account-Customization) to adjust this)
   - make a [text channel](https://discord.com/blog/starting-your-first-discord-server) for your project in the "Project Updates" category on the left, by clicking the "+" to "Create Channel"
   - you can name the channel after yourself, or the title of the project you're working on
   - post a "hello world" message in that channel
