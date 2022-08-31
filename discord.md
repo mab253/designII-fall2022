@@ -5,7 +5,8 @@ Discord intro documentation: [here](https://support.discord.com/hc/en-us/article
 Our asynchronous platform for building our studio community - the online component.
 
 ## to start our Discord server:
-  - create a channel for your project in the "Project Updates" category on the left; you can name the channel after yourself, or the title of the project you're working on
+  - make a [text channel](https://discord.com/blog/starting-your-first-discord-server) for your project in the "Project Updates" category on the left, by clicking the "+" to "Create Channel"
+  - you can name the channel after yourself, or the title of the project you're working on
   - post a "hello world" message in that channel
 
 Every week you are responsible for:
@@ -13,7 +14,7 @@ Every week you are responsible for:
   - asking @ least 1 question
   - responding to @ least 1 post by someone else
 
-**DUE: 5:00pm EST, Monday *each* week; first update/question/response due Sept. 12th*
+**DUE: 5:00pm EST, Monday *each* week; first update/question/response due Sept. 12th**
 
 These are truly minimums - my hope is that the Discord will be a space where you can ask any programming or project question you have, post something helpful that you found on Stack Overflow or a tutorial you liked, get inspired by other students' work and questions, etc. You are expected to be active every week, throughout the week - **I highly encourage you to document your process as you go here**, rather than uploading your updates right before our Monday classes. The Discord is not for the professor to check up on you; it's a running archive of our documentation (which will be much easier to write up if you have a record!), and a space for all of us to collaboratively build these projects and help each other out.
 
