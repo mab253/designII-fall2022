@@ -40,6 +40,10 @@ Project 6: AA, Recycling Application, Week 5 + Week 11
 
 Each presentation is 10% of your final grade. Your workshop presentation will be evaluated on timing (enough material and not going too long over 30 minutes), engagement of the class and space for critique, and the preparation of your content.
 
+NOTE:
+For collaborative projects, you may choose 1 of the following:
+- each collaborator can do 1 presentation, which amounts to 20% of your final grade
+- collaborators can equally share responsibility for 2 presentations, each amounting to 10%
 
 NOTE: 
 There are good examples of short talks on the [!!Con](https://bangbangcon.com/2021/) website archive, as well as many other conferences (Mozilla Fest, etc.) throughout the web.
