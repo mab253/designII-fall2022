@@ -29,12 +29,12 @@ You will have 30 minutes to present - the class time is yours! However:
 
 ## presentation schedule: (as set on 08.29.22)
 
-Project 1: AS, Relation Extraction, Week 3 + Week 9
-Project 2: CM, Bronx Bus Routes, Week 3 + Week 9
-Project 3: OS/DJ, Legit or Bit, Week 4 + Week 10
-Project 4: SO, Privacy Checker, Week 4 + Week 10
-Project 5: SS, Fashion GAN, Week 5 + Week 11
-Project 6: AA, Recycling Application, Week 5 + Week 11
+- Project 1: AS, Relation Extraction, Week 3 + Week 9 
+- Project 2: CM, Bronx Bus Routes, Week 3 + Week 9 
+- Project 3: OS/DJ, Legit or Bit, Week 4 + Week 10  
+- Project 4: SO, Privacy Checker, Week 4 + Week 10  
+- Project 5: SS, Fashion GAN, Week 5 + Week 11 
+- Project 6: AA, Recycling Application, Week 5 + Week 11 
 
 ## grading
 
