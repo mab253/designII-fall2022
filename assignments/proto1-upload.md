@@ -20,6 +20,7 @@ Once you are added to this repository via your e-mail, you can see it here: http
   <img width="1645" alt="Screen Shot 2022-10-17 at 2 41 27 PM" src="https://user-images.githubusercontent.com/17707843/196256926-4548819c-ee6e-40a5-9618-8b95933ff0f0.png">
   
   - In your terminal, type `git clone URL` (but replace "URL" with the one from the repo)
+  - Now we need to "step inside" this folder we've downloaded: type `cd 22design2-proto1`. You can use `pwd` ("print working directory") to see if you are inside the right folder.
 
 5. Now you are going to work in your own _branch_ in this repository. 
   - Choose a short name for your branch - a nickname based on your project name, or your own name, your Discord name, etc.
