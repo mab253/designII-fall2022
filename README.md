@@ -153,7 +153,7 @@ DEMO/TESTING DAY in-class
 
 **ASYNCHRONOUS WEEK** - we will not meet in-person
 
-See instructions for this [online-only week here](https://github.com/mab253/designII-fall2022/blob/main/assignments/async-week.md).
+See instructions for this [online-only week here](https://github.com/mab253/designII-fall2022/blob/main/assignments/async-week.md).  
 NOTE: "asynchronous" does not mean we meet on Zoom on Monday - it means we do not come together @ the same time this week!
 
 ---
