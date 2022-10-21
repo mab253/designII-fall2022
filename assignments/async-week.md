@@ -1,8 +1,8 @@
 # 📆🤖 asynchronous week!
 ## online-only assignments, week of oct. 24th
 
-**we will not meet in-person, in class this week!**
-**there is no class @ NAC on oct. 24th!**
+### **we will not meet in-person, in-class this week!**  
+**there will be no one in-person @ NAC on oct. 24th!**
 
 instead, we will be spending more time conversing online and taking our projects to the next level. the following assignments are due **before class** on Oct. 31, when we meet again in-person:
 
@@ -26,16 +26,16 @@ In your project's channel on Discord, write a reflection post (~300 words) about
 
 In the `#debug` channel on Discord, write a post that shares a current issue you are working through **OR** shows a recent issue you resolved in your project. The post should follow this format:
 - Intro: give us a few sentences of context for how this issue fits into your project. Remember your audience: we have been following your project, we know the aim and the general methodology, but you need to tell us what part of your project the code relates to.
-- Code: using code blocks **and** [syntax highlighting](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51) based on your coding language, share ~10-25 lines of code, with comments strategically written to help explain the code and the issue to us.
+- Code: using [code blocks](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#code-blocks) **and** [syntax highlighting](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51#syntax-highlighting) based on your coding language, share ~10-25 lines of code, with comments strategically written to help explain the code and the issue to us.
 - Describe how you solved this problem, **or** ask us the main questions you are currently wrestling with for debugging. If you have already solved this, tell us about your reasoning and show us the steps you took to realize a solution. Tell us the story! 🪲
 
 ## response posts (👾 Discord)
 
-This asynchronous week is about online communication, troubleshooting, and support. You will need to respond to **2 separate posts** by your classmates - this could be in their project channel, in response to a `#debug` post (help someone or learn from their code issue!), or if you have a separate question based on your knowledge and interest in their project, you could ask that as well.
+This asynchronous week is about online communication, comments/questions, and support. You will need to respond to **2 separate posts** by your classmates - this could be in their project channel, in response to a `#debug` post (help someone or learn from their code issue!), or if you have a separate question based on your knowledge and interest in their project, you could ask that as well.
 
 ## update post (👾 Discord)
 
-Each person needs to create 1 update post based on progress on your prototype (same as a typical week).
+Each person also needs to create 1 update post based on progress on your prototype (same as a typical week).
 
 ## Github response (🐱 Github)
 
