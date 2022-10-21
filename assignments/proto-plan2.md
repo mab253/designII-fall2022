@@ -11,6 +11,7 @@ This written prototype plan is very important - it outlines what we can expect f
 As a general guideline, the final prototype for these projects should:
 
 - involve dynamic data passed between a front-end input and a back-end; this final prototype should not be a static-only design
+- if you are using ML (as many of you are) - the passing of data between your app and the model needs to function; it does not need to be a perfectly trained model (...as this is a process that maybe does not end!)
 - involve at least some front-end design work
 - allow someone to run your code, either online or by following instructions to run a package locally
 
