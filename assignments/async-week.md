@@ -39,7 +39,7 @@ Each person also needs to create 1 update post based on progress on your prototy
 
 ## Github response (🐱 Github)
 
-I will be creating pull requests in order to start a comment chain with a few questions or comments per student branch on Github. Please respond to the comments and questions before the start of next class.  More info here!
+I will be creating pull requests in order to start a comment chain with a few questions or comments per student branch on Github. Please respond to the comments and questions before the start of next class.  [Detailed instructions here!](https://github.com/mab253/designII-fall2022/blob/main/assignments/github-comments.md) *If Github is new to you, please ask questions about this assignment on Discord after you play around looking for comments.*
 
 ## work on Prototype Plan #2
 
