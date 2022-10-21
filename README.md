@@ -153,7 +153,8 @@ DEMO/TESTING DAY in-class
 
 **ASYNCHRONOUS WEEK** - we will not meet in-person
 
-Assignment, reading, prompts TBD, via Discord
+See instructions for this [online-only week here](https://github.com/mab253/designII-fall2022/blob/main/assignments/async-week.md).
+NOTE: "asynchronous" does not mean we meet on Zoom on Monday - it means we do not come together @ the same time this week!
 
 ---
 
@@ -162,11 +163,8 @@ Assignment, reading, prompts TBD, via Discord
 WORKSHOP PRESENTATION: MAB 
 
 🔧 Open Studio Time
-
-**Readings due today:** 
-  - TBD
  
-**Assignment Due: Prototype Plan #2, by end of class**
+**Assignment Due: [Prototype Plan #2](https://github.com/mab253/designII-fall2022/blob/main/assignments/proto-plan2.md), by end of class**
 
 ---
 
