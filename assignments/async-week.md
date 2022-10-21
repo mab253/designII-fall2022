@@ -35,7 +35,7 @@ This asynchronous week is about online communication, comments/questions, and su
 
 ## update post (👾 Discord)
 
-Each person also needs to create 1 update post based on progress on your prototype (same as a typical week).
+Each person also needs to create 1 update post based on progress on your prototype (same as a typical week). Please include some concrete details on the changes you've been making and how the process is going.
 
 ## Github response (🐱 Github)
 
