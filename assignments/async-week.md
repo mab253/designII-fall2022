@@ -43,4 +43,4 @@ I will be creating pull requests in order to start a comment chain with a few qu
 
 ## work on Prototype Plan #2
 
-Remember that your 2nd (and final!) Prototype Plan is due by the end of class on Monday Oct. 31. You can see instructions for this here.
+Remember that your 2nd (and final!) Prototype Plan is due by the end of class on Monday Oct. 31. [You can see guidelines for this assignment here.](https://github.com/mab253/designII-fall2022/blob/main/assignments/proto-plan2.md) Prototype plans are part of your final project's grade.
