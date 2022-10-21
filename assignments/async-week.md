@@ -11,7 +11,8 @@ instead, we will be spending more time conversing online and taking our projects
 - [ ] 2 responses
 - [ ] update post
 - [ ] Github response
-- [ ] Prototype Plan #2
+
+And your [Prototype Plan #2](https://github.com/mab253/designII-fall2022/blob/main/assignments/proto-plan2.md) is due at the end of Studio Time in-class, **9pm on Oct. 31.**
 
 ## reflection post (👾 Discord)
 
