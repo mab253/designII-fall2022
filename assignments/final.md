@@ -70,12 +70,12 @@ For example:
 ```
 *You do not need to follow this format exactly, but your comment should cite the same information (name, link/source, and date if possible)*
 
-In written language for a paper, we also cite when it's not a direct quote, but it is an *idea* that we learned from a clear and specific source. If you have parts of your project that fit this description, please comment and cite here as well. 
+In written language for a paper, we also cite when it's not a direct quote, but it is an *idea* that we learned from a specific source. If you have parts of your project that fit this description, please comment and cite here as well. 
 
 Example:
 
 ```
-/* The following method is inspired by work done by Proton the Cat, @ https://github.com/proton-the-cat */
+/* The following method is inspired by work done by Proton the Cat, Jupyter notebook available @ https://github.com/proton-the-cat */
 ```
 
 **This commenting and citation of code is NOT OPTIONAL.** If you do not cite code where you have copied either the exact lines or the inspiring method of someone else, this could be considered plagiarism in the context of this final project.
