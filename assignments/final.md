@@ -16,7 +16,7 @@ Your final assignment for Senior Design has 2 stages: a demo day with a "lightni
 
 ## phase 2: due Dec. 16th
 
-📄 paper
+### 📄 paper
 
 Each project is required to turn in a paper with the following sections:
 #### Abstract: 
@@ -34,7 +34,7 @@ What are the limitations of your current prototype? If given more time and resou
 #### Bibliography 
 Your paper should cite at least 4 sources, whether citing where you found some code or process idea in the Methods section, citing some research you have done for context in the Introduction or Extensions sections. You may use whatever format for citations that you choose - [Chicago footnotes](https://www.scribbr.com/chicago-style/footnotes/) is a good one if you need an example.
 
-📜 documentation
+### 📜 documentation
 Each project will need to write a README.md, which includes the following:
 - overview: what does your software do? Who might want to use this?
 - instructions for accessing your project, if it is hosted online; OR
@@ -48,7 +48,7 @@ examples: https://github.com/matiassingers/awesome-readme
 We will discuss this in-depth in class on Nov. 28th.
 
 
-📀 code upload
+### 📀 code upload
 Each project is required to upload code to Github, using the following instructions (TBD). [This will be very similar to the branching method we used for prototype #1] 
 
 If your code is distributed (i.e. hosted on cloud platforms, multiple places) - please copy the code that you can into a Github branch and make the project structure explicit in your README.MD. Please ask me if you have any specific questions about formatting here.
