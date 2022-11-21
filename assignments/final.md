@@ -24,9 +24,9 @@ This should be a 1 paragraph introduction and summary of your project. In a conc
 #### Introduction:
 Present some background information about your problem domain and the motivation for building your particular project. You are welcome to use (and refine) your proposal from last semester in this section, which is about providing context for your reader. This section should be at least 300 words. 
 #### Methods
-In this section, please break down the components that you utilize to make your program run. What algorithms, languages, and other tools have you used? Where does data flow through your app (from input, to processing, to database, etc.?) If you did any data work (training a model, writing a script to clean data from an API, etc.), please tell this "story" in the description of your process in this section. This section should be at least 500 words. 
+In this section, please break down the components that you utilize to make your program run. What algorithms, languages, and other tools have you used? Where does data flow through your app (from input, to processing, to database, etc.?) If you did any data work (training a model, writing a script to clean data from an API, etc.), please tell this "story" in the description of your process in this section. You are welcome to refine any reflection or update posts from Discord for this. This section should be at least 500 words. 
 #### System Diagram
-Include a final version of your system diagram, showing how your components and modules work together. This may be hand-drawn but clean, or digitally created.
+Include a final version of your system diagram, showing how your components and various parts of your system (database, front-end, etc.) work together. This may be hand-drawn but clean, or digitally created. You are welcome to refine a previous version of this diagram.
 #### Reflection
 What were the milestones that you went through when designing this project? What were major decision points and how did you decide? What were aspects of the project that majorly changed or that you had to cut, and why? How significantly different is your final project from the proposal from last semester, or from prototype plan #1 in this semester? This section should be at least 500 words.
 #### Extensions
