@@ -41,7 +41,6 @@ Each project will need to write a README.md, which includes the following:
 - instructions for downloading and installing your project, if it is a local package
 - brief overview of the directories and files in your project (what can we expect to find, where?)
 - 1 screenshot of front-end design, what users should expect to see
-- include the "extensions" section of your final paper
 - anything else that you want your user to know
     
 examples: https://github.com/matiassingers/awesome-readme 
