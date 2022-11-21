@@ -20,7 +20,7 @@ Your final assignment for Senior Design has 2 stages: a demo day with a "lightni
 
 Each project is required to turn in a paper with the following sections:
 #### Abstract: 
-This should be a 1 paragraph introduction and summary of your project. In a concise format, you should state the motivation behind your project (why does it exist? What world systems or "problems" does your software attempt to address? Who is this project for, who is your user?), the methods you used to solve the problem, and a conclusion stating your results and a quick reference to future extensions. 
+This should be a 1 paragraph introduction and summary of your project. In a concise format, you should state the motivation behind your project (why does it exist? What world systems or "problems" does your software attempt to address? Who is this project for, who is your user?), the methods you used to build your software, and a conclusion stating your results and a quick reference to future extensions. 
 #### Introduction:
 Present some background information about your problem domain and the motivation for building your particular project. You are welcome to use (and refine) your proposal from last semester in this section, which is about providing context for your reader. This section should be at least 300 words. 
 #### Methods
