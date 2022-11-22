@@ -199,14 +199,11 @@ WORKSHOP PRESENTATIONS:
 ---
 
 **Week 12: Nov. 28**  
-**NOTE: this week may be made asynchronous or remote, TBD**
+**NOTE: this week will be in-person, confirmed 11.21.22**
 
 WORKSHOP PRESENTATION: MAB  
 
 🔧 Open Studio Time
-
-**Readings due today:** 
-  - TBD
 
 ---
 
