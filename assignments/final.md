@@ -63,7 +63,7 @@ For example:
 /***********
   This code was adapted from:
   David Bowie
-  https://github.com/davidjonesbowie
+  https://github.com/davidjonesbowie/the_exact_file_where_you_found_the_.code
   Accessed: Oct. 2022
 *************/
 ```
