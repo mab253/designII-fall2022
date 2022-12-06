@@ -9,7 +9,7 @@ Your final assignment for Senior Design has 2 stages: a demo day with a "lightni
 ## phase 1: due Dec. 12th
 
 ⚡️ lightning talk 
-- Each project will give a 7 minute (max! 3-5 ideal) presentation. This will be a talk with a different goal than your workshop presentations; you will be imagining an audience who has never seen your software. You will need to develop a visual aid that matches your short talk. We will discuss this in-depth in class on Dec. 5th - **notes on guidelines/suggestions starting on slide 7 [here]("https://github.com/mab253/designII-fall2022/blob/main/workshops/week13/Week%2013%20Pitches_Lightning%20Talks.pdf").**
+- Each project will give a 7 minute (max! 3-5 ideal) presentation. This will be a talk with a different goal than your workshop presentations; you will be imagining an audience who has never seen your software. You will need to develop a visual aid that matches your short talk. We will discuss this in-depth in class on Dec. 5th - **notes on guidelines/suggestions starting on slide 7 [here](https://github.com/mab253/designII-fall2022/blob/main/workshops/week13/Week%2013%20Pitches_Lightning%20Talks.pdf).**
 
 💻 functioning demo
 - Your project's final prototype should be functional in order to share with classmates, with your inputs, outputs, and front-end design in their final format. We will share prototypes in pairs after the lightning talks.
