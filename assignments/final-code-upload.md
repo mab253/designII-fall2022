@@ -2,7 +2,8 @@
 
 We are going to use Github to share code from the final versions of our project prototypes. We will each create a different _branch_ in the same private repository. 
 
-Once you are added to this repository via your e-mail, you can see it here: https://github.com/mab253/22design2-final
+Once you are added to this repository via your e-mail, you can see it here: https://github.com/mab253/22design2-final 
+
 *NOTE:* This is the same process we went through for uploading your first prototypes, but note the change in URL: this is a different, new private repository for the final code. 
 
 1. Do you have a Github account? Please [set one up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) in case you don't.
