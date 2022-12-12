@@ -4,7 +4,7 @@ Your final assignment for Senior Design has 2 stages: a demo day with a "lightni
 
 **phase 1:** (demo and talk) due in-class (6:30pm) Monday, Dec. 12th 
 
-**phase 2:** (paper and code) due Friday, Dec. 16th
+**phase 2:** (paper and code) due Friday, Dec. 16th @ 11:59pm NYC-time 
 
 ## phase 1: due Dec. 12th
 
@@ -48,7 +48,7 @@ We will discuss this in-depth in class on Nov. 28th.
 
 
 ### 📀 code upload
-Each project is required to upload code to Github, using the following instructions (TBD). [This will be very similar to the branching method we used for prototype #1] 
+Each project is required to upload code to Github, using the following instructions: https://github.com/mab253/designII-fall2022/blob/main/assignments/final-code-upload.md (This is the same branching method in a private repository that we used for the first versions of the prototypes. _If you have any issues uploading your code on the final day, please reach out to me via Discord or email._
 
 If your code is distributed (i.e. hosted on cloud platforms, multiple places) - please copy the code that you can into a Github branch and make the project structure explicit in your README.MD. Please ask me if you have any specific questions about formatting here.
 
