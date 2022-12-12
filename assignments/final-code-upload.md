@@ -3,6 +3,7 @@
 We are going to use Github to share code from the final versions of our project prototypes. We will each create a different _branch_ in the same private repository. 
 
 Once you are added to this repository via your e-mail, you can see it here: https://github.com/mab253/22design2-final
+*NOTE:* This is the same process we went through for uploading your first prototypes, but note the change in URL: this is a different, new private repository for the final code. 
 
 1. Do you have a Github account? Please [set one up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) in case you don't.
 
@@ -17,7 +18,8 @@ Once you are added to this repository via your e-mail, you can see it here: http
 
 4. Once you are where you want to be in the file structure, you need to `clone` the Github repository where you will be uploading your code.
   - The URL for the private class Github repository can be found here, under the "Code" green menu:
-  <img width="1645" alt="Screen Shot 2022-10-17 at 2 41 27 PM" src="https://user-images.githubusercontent.com/17707843/196256926-4548819c-ee6e-40a5-9618-8b95933ff0f0.png">
+  <img width="1645" alt="finalscreenshot1" src="https://user-images.githubusercontent.com/17707843/207142757-5c935584-7237-4813-b979-4d471a1b063f.png">
+
   
   - In your terminal, type `git clone URL` (but replace "URL" with the one from the repo)
   - Now we need to "step inside" this folder we've downloaded: type `cd 22design2-final`. You can use `pwd` ("print working directory") to see if you are **inside** the right folder.
@@ -43,5 +45,6 @@ Once you are added to this repository via your e-mail, you can see it here: http
   - In  your terminal, type `git push origin NAME` - but very important, change the NAME to your BRANCH NAME that you've created
 
 10. Now when you check out the Github repo in the [web interface](https://github.com/mab253/22design2-proto1), you should be able to see your own branch! Look for a drop-down list of branches labeled "main" in the upper left. 
-<img width="1115" alt="Screen Shot 2022-10-17 at 2 54 58 PM" src="https://user-images.githubusercontent.com/17707843/196259347-575945e6-70cc-4fa5-b7fa-f05291b1ed91.png">
+<img width="1115" alt="finalscreenshot2" src="https://user-images.githubusercontent.com/17707843/207142787-1c6d1bf9-b349-40c4-91ea-7ab539420e86.png">
+
 
